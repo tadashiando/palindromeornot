@@ -1,4 +1,4 @@
-# andopalindrom
+# Palindrome or not
 
 > Vue.js project for palindrome check.
 
